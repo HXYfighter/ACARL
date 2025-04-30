@@ -1,5 +1,7 @@
 # ACARL
 
+This is the code repository for our paper published in Journal of Cheminformatics: [Activity cliff-aware reinforcement learning for _de novo_ drug design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01006-3).
+
 Dependencies:
 
 ```bash
